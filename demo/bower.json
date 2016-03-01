@@ -1,0 +1,24 @@
+{
+  "name": "can.Menu",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:francosoto/can.Menu.git",
+    "github": "https://github.com/francosoto/can.Menu"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "dependencies": {
+    "canjs": "https://github.com/canjs/canjs.git",
+    "steal": "~0.13.2",
+    "jquery": "2.2.0"
+  },
+  "devDependencies": {
+    "bootstrap": "~3.3.6",
+    "funcunit": "~2.0.4"
+  }
+}
